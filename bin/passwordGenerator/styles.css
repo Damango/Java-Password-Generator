@@ -1,0 +1,17 @@
+.copyButton{
+	-fx-background-color:  #2ecc71;
+}
+
+.copyButton:hover{
+	-fx-background-color:#27ae60;
+}
+
+.generateButton{
+	-fx-background-color: #2ecc71;
+}
+
+
+.generateButton:hover{
+	-fx-background-color:#27ae60;
+}
+
